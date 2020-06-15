@@ -10,7 +10,7 @@ To practice mathematics problems(worksheets) refer Wiki :-> https://github.com/s
 
 ### Prerequisites
 
-You just need mobile/compter/laptop with internet connection. 
+You just need mobile/computer/laptop with internet connection. 
 
 ### Installing
 
