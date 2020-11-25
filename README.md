@@ -8,6 +8,8 @@ To learn mathematics concept refer YoutTube channel :-> https://www.youtube.com/
 
 To practice mathematics problems(worksheets) refer Wiki :-> https://github.com/suman-sk/fantastic-math/wiki
 
+Free worksheets are avilable
+
 ### Prerequisites
 
 You just need mobile/computer/laptop with internet connection. 
